@@ -1,5 +1,5 @@
 <!-- Header Banner Image -->
-![Md. Amran Banner]() <!-- Replace with your own banner URL -->
+![Md. Amran Banner](./20250513_231323.jpg) <!-- Replace with your own banner URL -->
 
 ---
 
