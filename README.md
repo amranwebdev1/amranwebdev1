@@ -51,7 +51,7 @@ I’m a self-taught **Web Developer** from **Bangladesh 🇧🇩**, passionate a
 
 - 📧 Email: amraanhossen@gmail.com
 
-- 💼 LinkedIn: *(add if you have)*
+- 💼 LinkedIn: *(https://www.linkedin.com/in/md-amran-hossen-a93a672a3?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)*
 
 ---
 
